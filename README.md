@@ -1,9 +1,9 @@
  ### PACMAN Programaciôn Orientada a Objetos "POO" 
-===========================
+
 
  ![](https://img.icons8.com/cotton/240/000000/pacman.png)
 
-========================
+
 BUILD OUTPUT DESCRIPTION
 ========================
 
