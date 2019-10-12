@@ -74,22 +74,18 @@ public class Lienzo extends JPanel implements KeyListener{
         switch(ke.getKeyCode()){
             case KeyEvent.VK_UP:
                 p.Arriba();
-                f1.Arriba();
           
                 break;
             case KeyEvent.VK_DOWN:
                 p.Abajo();
-                f1.Abajo();
            
                 break;       
             case KeyEvent.VK_LEFT:
                 p.Izquierda();
-                f1.Izquierda();
           
                 break;
             case KeyEvent.VK_RIGHT:
                 p.Derecho();
-               f1.Derecho();
           
                 break;
         }
